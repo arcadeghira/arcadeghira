@@ -9,7 +9,7 @@
 - 📘 I'm currently learning new deep learning algorithms, and writing my thesis for my Master's Degree in Artificial Intelligence
 - 👯 I would like to collaborate with machine learning scientists and software developers to build awesome algorithms and applications
 - 🤖 I like to increase my knowledge of Machine Learning and Deep Learning algorithms by analyzing real-world datasets
-- ⚡ I constantly struggle to grow both professionally and personally
+- ⚡ I constantly try to grow both professionally and personally
 
 #### Favorite quote: *Thought shapes language, language shapes thought*.
 
