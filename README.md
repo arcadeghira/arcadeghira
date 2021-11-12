@@ -11,6 +11,8 @@
 - 🤖 I like to increase my knowledge of Machine Learning and Deep Learning algorithms by analyzing real-world datasets
 - ⚡ I constantly struggle to grow both professionally and personally
 
+#### Favorite quote: *Thought shapes language, language shapes thought*.
+
 ### Connect with me:
 
 [<img align="left" alt="youtube.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
