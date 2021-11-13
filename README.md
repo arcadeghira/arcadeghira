@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=arcadeghira.com&style=for-the-badge&url=https%3A%2F%2Fgoogle.com)](https://google.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/arcadeghira?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=arcadeghira)
 
-#### My most recent research and work interests are Data Analysis, Machine Learning, Deep Learning, High Performance Computing and Data Visualization. I'm passionate about science in general, and specifically about artificial intelligence 🧠 
+#### My most recent research and work interests are Data Analysis, Machine Learning, Deep Learning. I'm passionate about science in general, and specifically about artificial intelligence 🧠 
 
 - 📘 I'm currently learning new deep learning algorithms, and writing my thesis for my Master's Degree in Artificial Intelligence
 - 👯 I would like to collaborate with machine learning scientists and software developers to build awesome algorithms and applications
