@@ -5,8 +5,8 @@
 
 #### My most recent research and work interests are Data Analysis, Machine Learning, Deep Learning. I'm passionate about science in general, and specifically about artificial intelligence 🧠 
 
-- 👯 I would like to collaborate with machine learning scientists and software developers to build awesome algorithms and applications
-- 🤖 I like to increase my knowledge of Machine Learning and Deep Learning algorithms by analyzing real-world datasets
+- 👯 I like collaborate with machine learning scientists and software developers to build awesome algorithms and applications
+- 🤖 I enjoy learning new Machine Learning and Deep Learning algorithms by analyzing real-world datasets
 - ⚡ I constantly challenge myself to grow both professionally and personally
 
 #### Favorite quote: *Thought shapes language, language shapes thought*.
