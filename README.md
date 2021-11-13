@@ -3,10 +3,10 @@
 [![Website](https://img.shields.io/website?label=arcadeghira.com&style=for-the-badge&url=https%3A%2F%2Fgoogle.com)](https://google.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/arcadeghira?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=arcadeghira)
 
-#### My most recent research and work interests are Data Analysis, Machine Learning, Deep Learning. I'm passionate about science in general, and specifically about artificial intelligence 🧠 
+#### My most recent research and work interests are machine Learning and deep Learning, and in particular their application to climate change. 
 
 - 👯 I like to collaborate with machine learning experts and software developers to build awesome algorithms and applications
-- 🤖 I would like to learn new Machine Learning and Deep Learning algorithms by analyzing real-world datasets
+- 🤖 I'm curious about the applications of machine learning and deep learning to climate change
 - ⚡ I constantly challenge myself to grow both professionally and personally
 
 #### Favorite quote: *Thought shapes language, and language shapes thought*.
