@@ -9,7 +9,7 @@
 - 🤖 I enjoy learning new Machine Learning and Deep Learning algorithms by analyzing real-world datasets
 - ⚡ I constantly challenge myself to grow both professionally and personally
 
-#### Favorite quote: *Thought shapes language, language shapes thought*.
+#### Favorite quote: *Thought shapes language, and language shapes thought*.
 
 ### Connect with me:
 
