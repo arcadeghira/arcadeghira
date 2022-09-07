@@ -12,7 +12,6 @@
 
 - *Thought shapes language, and language shapes thought.*
 - *Not telling the truth is not giving a chance to learn and improve.*
-- *Knowledge is power!*
 
 ### Connect with me:
 
