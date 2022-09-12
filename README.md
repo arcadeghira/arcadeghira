@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/arcadeghira?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=arcadeghira)
 
-#### My most recent research and work interests are machine learning and deep learning and their application to real-world problems. 
+#### My most recent research and work interests are deep learning, computer vision and their application to real-world problems. 
 
 - 👯 I like to collaborate with machine learning experts and software developers to build awesome algorithms and applications
 - ⚡ I constantly challenge myself to grow both professionally and personally, while keeping a result-oriented approach
@@ -14,11 +14,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="youtube.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="arcadeghira | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="arcadeghira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="arcadeghira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="arcadeghira | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -60,11 +57,6 @@
 
 </details>
 
-
-[website]: https://www.google.com
-[course]: http://www.google.com
 [twitter]: https://twitter.com/arcadeghira
-[youtube]: https://youtube.com
-[instagram]: https://www.instagram.com/arcadeghira/
 [linkedin]: https://www.linkedin.com/in/matteo-ghirardelli-983ba7171/
 [default]: #
