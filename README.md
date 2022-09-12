@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=arcadeghira.com&style=for-the-badge&url=https%3A%2F%2Fgoogle.com)](https://google.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/arcadeghira?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=arcadeghira)
 
-#### My most recent research and work interests are machine Learning and deep Learning, and in particular their application to real-world problems. 
+#### My most recent research and work interests are machine learning and deep learning, and in particular their application to real-world problems. 
 
 - 👯 I like to collaborate with machine learning experts and software developers to build awesome algorithms and applications
 - ⚡ I constantly challenge myself to grow both professionally and personally, while keeping a result-oriented approach
