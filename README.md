@@ -51,6 +51,4 @@
 
 ---
 
-[twitter]: https://twitter.com/arcadeghira
-[linkedin]: https://www.linkedin.com/in/matteo-ghirardelli-983ba7171/
 [default]: #
