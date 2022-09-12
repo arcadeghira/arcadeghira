@@ -1,7 +1,5 @@
 ## Hi there, I'm Matteo Ghirardelli - aka *arcadeghira* 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/arcadeghira?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=arcadeghira)
-
 #### My most recent research and work interests are deep learning, computer vision and their application to real-world problems. 
 
 - 👯 I like to collaborate with machine learning experts and software developers to build awesome algorithms and applications
