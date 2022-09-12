@@ -14,10 +14,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="arcadeghira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="arcadeghira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+ <a href="https://www.linkedin.com/in/matteo-ghirardelli-983ba7171/" target="blank"><img align="center"
+ src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+ alt="azzar" height="30"/></a>
+ <a href="https://twitter.com/arcadeghira" target="blank"><img align="center"
+ src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+ alt="azzar" height="30"/></a>
 
 ### Languages and Tools:
 
