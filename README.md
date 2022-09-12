@@ -50,13 +50,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="arcadeghira's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arcadeghira&show_icons=true&hide_border=true&count_private=true" />
-
-</details>
-
 [twitter]: https://twitter.com/arcadeghira
 [linkedin]: https://www.linkedin.com/in/matteo-ghirardelli-983ba7171/
 [default]: #
