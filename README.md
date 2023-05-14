@@ -5,10 +5,6 @@
 - 👯 I like to collaborate with machine learning experts and software developers to build awesome algorithms and applications
 - ⚡ I constantly challenge myself to grow both professionally and personally, while keeping a result-oriented approach
 
-#### Favorite quotes: 
-
-- *Thought shapes language, and language shapes thought.*
-- *Not telling the truth is not giving a chance to learn and improve.*
 
 ### Connect with me:
 
